@@ -29,14 +29,21 @@ If there are some processes with information with the different desktop, this to
 
 
 Pink: It is operating on a desktop which is not the default desktop (has a handle)
+
 Orange: It has a window created/generated from another desktop that is not currently active
+
 Blue: It has the specified desktop information that is not the default in the process informaion(PEB).
+
 Gray: Operating in session 0 (service etc.)
 
 
+
 ピンク：デフォルトデスクトップではないデスクトップで動作している（ハンドルを持っている）
+
 オレンジ：現在アクティブではない別のデスクトップから作成・生成されたウインドウを持っている
+
 ブルー：起動時点でデフォルトではないデスクトップを指定されている
+
 グレー：セッション０で動作している（サービス等）
 
 
