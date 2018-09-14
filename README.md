@@ -20,9 +20,10 @@ This tool is useful for the research such as the following threats.
 
 
 
+If there are some processes with information with the different desktop, this tool can display in different colors as shown below.
+
 もし異なるデスクトップの情報を持つプロセスがある場合、以下のように色分けされて表示されます。
 
-If there are some processes with information with the different desktop, this tool can display in different colors as shown below.
 
 ![2](https://user-images.githubusercontent.com/43233361/45525580-9691f180-b80e-11e8-8455-fef5e53e9013.jpg)
 
