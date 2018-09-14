@@ -10,7 +10,7 @@ This tool reveals hidden desktops and investigate processes/threads utilizing hi
 
 This tool is useful for the research such as the following threats.
  - Ransomware and ScreenLocker which create hidden desktops
- - Trojan such as the online banking malware using Hidden VNC (hVNC)
+ - Trojan such as the online banking malware(gozi/dreambot/ursnif/ramnit/carberp/etc..) using Hidden VNC (hVNC)
  
  
  
