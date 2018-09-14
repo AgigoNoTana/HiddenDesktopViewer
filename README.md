@@ -15,7 +15,8 @@ This tool is useful for the research such as the following threats.
  
  
 隠されたデスクトップを作成するランサムウェアやスクリーンロッカー、
-また、Hidden VNC(hVNC)を利用するオンラインバンキングマルウェアなどの調査に有用です。
+また、Hidden VNC(hVNC)を利用するオンラインバンキングマルウェアなどの調査に有用です。　　　
+
 
 
 - The compiled binary is below.   
@@ -23,6 +24,7 @@ This tool is useful for the research such as the following threats.
 https://github.com/AgigoNoTana/HiddenDesktopViewer/blob/master/HiddenDesktopViewer_Bin.zip
 
 
+　　　
 ![default](https://user-images.githubusercontent.com/43233361/45525567-867a1200-b80e-11e8-8575-d1976ec31896.jpg)
 
 
