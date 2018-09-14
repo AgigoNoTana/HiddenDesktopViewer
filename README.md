@@ -1,16 +1,18 @@
 # HiddenDesktopViewer
 
+This tool reveals hidden desktops and investigate processes/threads utilizing hidden desktops.   
+このツールは隠されたデスクトップを明らかにし、隠されたデスクトップを利用するプロセスやスレッドを調査するツールです。　　　
+
+
 ![window](https://user-images.githubusercontent.com/43233361/45525547-68141680-b80e-11e8-8650-52a2117be911.PNG)
 
 
-This tool reveals hidden desktops and investigate processes/threads utilizing hidden desktops.
 
 This tool is useful for the research such as the following threats.
  - Ransomware and ScreenLocker which create hidden desktops
  - Trojan such as the online banking malware using Hidden VNC (hVNC)
  
  
-このツールは隠されたデスクトップを明らかにし、隠されたデスクトップを利用するプロセスやスレッドを調査するツールです。
  
 隠されたデスクトップを作成するランサムウェアやスクリーンロッカー、
 また、Hidden VNC(hVNC)を利用するオンラインバンキングマルウェアなどの調査に有用です。
