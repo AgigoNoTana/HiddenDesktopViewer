@@ -3,8 +3,8 @@
 This tool reveals hidden desktops and investigate processes/threads utilizing hidden desktops.   
 このツールは隠されたデスクトップを明らかにし、隠されたデスクトップを利用するプロセスやスレッドを調査するツールです。　
 
-  ※For detailed backgrounds and explanations about the threat, please see the blog post below (Japanese only).
-  ※脅威についての詳しい背景や解説は以下のブログ記事をご覧ください。
+  ※For detailed backgrounds and explanations about the threat, please see the blog post below (Japanese only).<br>
+  ※脅威についての詳しい背景や解説は以下のブログ記事をご覧ください。<br>
    https://www.mbsd.jp/blog/20180914.html
 
 ![window](https://user-images.githubusercontent.com/43233361/45525547-68141680-b80e-11e8-8650-52a2117be911.PNG)
@@ -62,7 +62,8 @@ https://www.mbsd.jp/blog/img/20180914_HiddenDesktopViewer%20-%20Tyrant%20case%20
 (Video-2): HiddenDesktopViewer VS HiddenVNC used by some online banking malware(gozi/dreambot/ursnif/ramnit/carberp/etc..) .
 https://www.mbsd.jp/blog/img/20180914_HiddenDesktopViewer%20-case%20of%20HiddenVNC-.mp4
 
-   
+
+<br>--------------------<br>
    
 ※ We are not responsible for any problems arising when using this tool, so please use only those who can understand that point.
 
