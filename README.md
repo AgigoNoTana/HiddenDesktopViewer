@@ -18,7 +18,7 @@ This tool is useful for the research such as the following threats.
  
  
 隠されたデスクトップを作成するランサムウェアやスクリーンロッカー、
-また、Hidden VNC(hVNC)を利用するオンラインバンキングマルウェアなどの調査に有用です。　　　
+また、Hidden VNC(hVNC)を利用するオンラインバンキングマルウェアなどの調査に有用です。<br>　　　
 
 
 
@@ -27,7 +27,7 @@ This tool is useful for the research such as the following threats.
 https://github.com/AgigoNoTana/HiddenDesktopViewer/blob/master/HiddenDesktopViewer_Bin.zip
 
 
-(*HiddenDesktopViewer requires Microsoft . NET Framework 4.5 or higher.  ( 4.0 can be used, but an error occurs during working.)
+(*HiddenDesktopViewer requires Microsoft . NET Framework 4.5 or higher.  ( 4.0 can be used, but an error occurs during working.)<br>
 （※「HiddenDesktopViewer」の正常動作にはMicrosoft . NET Framework 4.5以上が必要です。(4.0で起動はできますが動作中にエラーが出ます)）
 
 　　　
