@@ -28,7 +28,6 @@ https://github.com/AgigoNoTana/HiddenDesktopViewer/blob/master/HiddenDesktopView
 
 
 (*HiddenDesktopViewer requires Microsoft . NET Framework 4.5 or higher.  ( 4.0 can be used, but an error occurs during working.)
-
 （※「HiddenDesktopViewer」の正常動作にはMicrosoft . NET Framework 4.5以上が必要です。(4.0で起動はできますが動作中にエラーが出ます)）
 
 　　　
