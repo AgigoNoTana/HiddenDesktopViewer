@@ -26,9 +26,10 @@ This tool is useful for the research such as the following threats.
 - コンパイル済バイナリは以下です。   
 https://github.com/AgigoNoTana/HiddenDesktopViewer/blob/master/HiddenDesktopViewer_Bin.zip
 
-（※「HiddenDesktopViewer」の正常動作にはMicrosoft . NET Framework 4.5以上が必要です。(4.0で起動はできますが動作中にエラーが出ます)）
+
 (*HiddenDesktopViewer requires Microsoft . NET Framework 4.5 or higher.  ( 4.0 can be used, but an error occurs during working.)
 
+（※「HiddenDesktopViewer」の正常動作にはMicrosoft . NET Framework 4.5以上が必要です。(4.0で起動はできますが動作中にエラーが出ます)）
 
 　　　
 ![default](https://user-images.githubusercontent.com/43233361/45525567-867a1200-b80e-11e8-8575-d1976ec31896.jpg)
