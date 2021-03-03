@@ -59,12 +59,10 @@ Gray: Operating in session 0 (service etc.)
 Please watch these video to know how to use the HiddenDesktopViewer.   
 使用方法は以下の動画をご覧ください。
 
-(Video-1): HiddenDesktopViewer VS Tyrant Ransomware.
-https://www.mbsd.jp/blog/img/20180914_HiddenDesktopViewer%20-%20Tyrant%20case%20-.mp4
-
-(Video-2): HiddenDesktopViewer VS HiddenVNC used by some online banking malware(gozi/dreambot/ursnif/ramnit/carberp/etc..) .
-https://www.mbsd.jp/blog/img/20180914_HiddenDesktopViewer%20-case%20of%20HiddenVNC-.mp4
-
+(YouTube Video): 
+https://www.youtube.com/watch?v=CQey5oyfAhk
+(First half):HiddenDesktopViewer VS Tyrant Ransomware.
+(Second half):HiddenDesktopViewer VS HiddenVNC used by some online banking malware(gozi/dreambot/ursnif/ramnit/carberp/etc..) .
 
 <br>--------------------<br>
    
